@@ -1,5 +1,5 @@
 # Power-BI-_super_store_sales_dashboard
-In this project I have utilized data analysis techniques, specifically focusing on thime series techniques, to provide valuable insights and accurate sales forecasting
+In this project I have utilized data analysis techniques, specifically focusing on time series techniques, to provide valuable insights and accurate sales forecasting
 description:
 1. dashboard creation- Identify the KPIs, design an intuitive and visually appealing dashboard, ass interactive visualizations and filtering capabilities to allow users to explore the data at various levels of granularity
 2. Data Analysis- Provide valuable insights to business entities regarding the effectiveness of their sles strategies through visualizations and charts.
